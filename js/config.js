@@ -2,15 +2,15 @@
 let site_detail = {
     'site_name': {
         'tc': 'LovelyMyanmar',
-        'url': 'https://lovelymyanmar.github.io'
+        'url': 'https://jail3.github.io'
     },
     'site_home': {
         'tc': 'Home',
-        'url': 'https://lovelymyanmar.github.io/springmoni'
+        'url': 'https://jail3.github.io/'
     },
     'products': {
         'tc': 'Our Products',
-        'url': 'https://lovelymyanmar.github.io/springmoni/products/index.html'
+        'url': 'https://jail3.github.io/jail3.github.io/index.html'
     }
 }
 
