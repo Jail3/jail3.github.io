@@ -1,7 +1,7 @@
 
 let site_detail = {
     'site_name': {
-        'tc': 'LovelyMyanmar',
+        'tc': 'jail3',
         'url': 'https://jail3.github.io'
     },
     'site_home': {
