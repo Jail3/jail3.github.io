@@ -1,10 +1,17 @@
 
 let site_detail = {
-    'site_name': 'SpringMoni',
-    'tagline': 'A site script for static website with dynamic data',
-    'site_home': 'https://lovelymyanmar.github.io',
-    'blog_home': 'https://lovalymyanmar.github.io/springmoni',
-    'products': 'products.html'
+    'site_name': {
+        'tc': 'LovelyMyanmar',
+        'url': 'https://lovelymyanmar.github.io'
+    },
+    'site_home': {
+        'tc': 'Home',
+        'url': 'https://lovelymyanmar.github.io/springmoni'
+    },
+    'products': {
+        'tc': 'Our Products',
+        'url': 'https://lovelymyanmar.github.io/springmoni/products/index.html'
+    }
 }
 
-export {site_detail}
+export {site_detail} 
